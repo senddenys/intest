@@ -14,7 +14,7 @@ Static one-page portfolio for a QA engineer. Brutalist layout, yellow accent (`#
 - **About** — short bio
 - **Impact** — stats (bugs found, improvements, experience)
 - **Skills** — testing, tools, process
-- **Certificates** — carousel with 12 certs, including Master's diploma
+- **Certificates** — carousel with 14 certs, including Master's diploma
 - **Testimonials** — quotes from teammates
 - **Contact** — email, Telegram, LinkedIn
 
